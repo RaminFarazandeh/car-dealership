@@ -1,7 +1,7 @@
 package com.ramin.cardealership.controller;
 
-import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RestController;
 
-@Controller
-public class CarContoller {
+@RestController
+public class CarController {
 }
